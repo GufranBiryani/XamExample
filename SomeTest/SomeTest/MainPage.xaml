@@ -11,6 +11,7 @@
                    TextColor="White" 
                    FontSize="36"/>
                 <Entry Placeholder="Write something here.." />
+                <Button Text="Click Me" Clicked="Button_Clicked" />
             </StackLayout>
             
             
