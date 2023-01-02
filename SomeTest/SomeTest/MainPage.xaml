@@ -11,7 +11,7 @@
                    TextColor="White" 
                    FontSize="36"/>
                 <Entry Placeholder="Write something here.." />
-                <Button Text="Click Me" Clicked="Button_Clicked" />
+                <Button Text="Click me from another account" Clicked="Button_Clicked" />
             </StackLayout>
             
             
