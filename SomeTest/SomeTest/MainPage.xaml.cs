@@ -14,5 +14,10 @@ namespace SomeTest
         {
             InitializeComponent();
         }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            DisplayAlert("Title", "Message", "OK");
+        }
     }
 }
