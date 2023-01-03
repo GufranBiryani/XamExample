@@ -11,7 +11,7 @@
                    TextColor="White" 
                    FontSize="36"/>
                 <Entry Placeholder="Write something here.." />
-                <Button Text="Click me last today" Clicked="Button_Clicked" />
+                <Button Text="Click me last today 3 January" Clicked="Button_Clicked" />
             </StackLayout>
             
             
